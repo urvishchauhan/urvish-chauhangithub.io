@@ -1,0 +1,284 @@
+body{
+    background-color: #212B2D
+}
+.mainmid{
+    width: 900px;
+    height: auto;
+    margin: auto;
+}
+.header{
+    width: 900px;
+    height: 220px;
+    float:left;
+    background-image: url(/asset/resize-banner.jpg);
+}
+.mainmenu{
+    width: 900px;
+    height: 50px;
+    float:left;
+    background-color: #303b3f;
+    color: whitesmoke;
+}
+.left{
+    width: 250px;
+    height: 600px;
+    float:left;
+}
+.homeleft{
+    width: 250px;
+    height: 600px;
+    float:left;
+    color: whitesmoke;
+}
+.upleft{
+    width: 250px;
+    height: 330px;
+    float:left;
+    color: whitesmoke;
+}
+.downleft{
+    width: 250px;
+    height: 270px;
+    float:left;
+    color: whitesmoke;
+}
+
+.right{
+    width: 650px;
+    height: 600px;
+    float:left;
+    
+}
+.Feeright{
+    width: 650px;
+    height: 300px;
+    float:left;
+    color: #BEB5BB;
+    padding-top: 300px;
+    text-align: center;
+    
+}
+.Aboutimg{
+    float:right;
+    width: 200px;
+    height: 200px;
+}
+.Serviceright{
+    width: 650px;
+    height: 530px;
+    float:left;
+    color:whitesmoke;
+    text-align: center;
+    
+    text-decoration: none;
+    
+    
+}
+.Aboutright{
+    width: 650px;
+    height: 530px;
+    float:left;
+    color:whitesmoke;
+    text-align:left;
+    
+    text-decoration: none;
+    
+    
+}
+
+.contright{
+    width: 650px;
+    height: 600px;
+    float:left;
+    
+}
+.Procenter{
+    width: 650px;
+    height: 330px;
+    float:left;
+    color: whitesmoke;
+    
+}
+.Acad{
+    width: 216.67px;
+    height: 155px;
+    float:left;
+    color: whitesmoke;
+    background-image: url(Degree\ certificate..jpg);
+    
+    
+}
+.Probottom{
+    width: 650px;
+    height: 200px;
+    float:left;
+    color: whitesmoke;
+    
+    
+}
+
+.upright{
+    width: 650px;
+    height: 330px;
+    float:left;
+    color: whitesmoke;
+}
+.downright{
+    width: 650px;
+    height: 270px;
+    float:left; 
+}
+.contdownright{
+    width: 650px;
+    height: 219px;
+    float:left; 
+    background-color: silver;
+}
+.contdownright{
+    width: 650px;
+    float:left; 
+}
+.Mdownright{
+    width: 320px;
+    height: 270px;
+    float:left;
+    color: whitesmoke;
+}
+.contMdownright{
+    width: 320px;
+    height: 250px;
+    float:left;
+    color: whitesmoke;
+}
+.contMupright{
+    width: 320px;
+    height: 320px;
+    float:left;
+    color: whitesmoke;
+    
+}
+.Vright{
+    width: 1px;
+    height: 250px;
+    float:left;
+    padding-top: 20px;
+    padding-right: 9px;
+}
+.contVupright{
+    width: 1px;
+    height: 390px;
+    float:left;
+    padding-top: 30px;
+    padding-right: 9px;
+}
+.Sdownright{
+    width: 320px;
+    height: 270px;
+    float:left;
+    color: whitesmoke;
+}
+.ContSupright{
+    width: 330px;
+    height: 320px;
+    float:left;
+    color: whitesmoke;
+    
+}
+.contSdownright{
+    width: 330px;
+    height: 180px;
+    float:left;
+    color: whitesmoke;
+    text-align: center;
+    background-color: blueviolet;
+}
+
+.hrline{
+    width: 900px;
+    height: 10px;
+    float:left;
+    
+}
+.footer{
+    width: 900px;
+    height: 60px;
+    float:left;
+    color: whitesmoke;
+}
+.menubar{
+    width: 145px;
+    height: 30px;
+    float:left;
+    text-align: center;
+    padding-top: 20px;
+}
+.vmenu{
+    width: 5px;
+    height: 47.5px;
+    float:left;
+    padding: 2.5px;
+}
+.upleft h2{
+    text-align: center;
+}
+li{
+    font-size: 22px;
+    text-decoration: underline;
+}
+.downleft h2{
+    text-align: center;
+}
+.downleft p{
+    font-size: 18px;
+}
+.upright h2{
+    text-align:center;
+}
+
+.upright p{
+    font-size: 18px;
+}
+.Mdownright h2{
+    text-align: center;
+}
+.Mdownright p{
+    font-size: 18px;
+}
+.Sdownright h2{
+    text-align: center;
+}
+.Sdownright p{
+    font-size: 18px;
+}
+button{
+    padding: 5px;
+}
+.footer p{
+    text-align: center;
+    font-size: 22px;
+}
+ul{
+    padding-top: 30px;
+}
+.redcolor{
+    color: red;
+    font-size: 20px;
+}
+a:link{
+    color: whitesmoke;
+}
+a:visited{
+    color: lightblue;
+}
+a:hover{
+    color:lightcoral;
+    background-color: lime;
+}
+a:active{
+    color:rebeccapurple;
+    background-color:skyblue;
+}
+   
+
+
+
